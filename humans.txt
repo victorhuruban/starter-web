@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Victor Huruban	coaie@asdf.com	nu am twitter
 
 # THANKS
 
